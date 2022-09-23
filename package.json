@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.0.0",
+  "homepage": "https://dayanrs.github.io/test/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
